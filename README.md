@@ -1,2 +1,2 @@
-# SoftUni-C-Assignments-Basics
+# SoftUni-C#-Assignments-Basics
 Jan @2019
